@@ -1,5 +1,5 @@
 {
-  "name": "launch-pack",
+  "name": "launch-pack-core",
   "files": [
     "lib",
     "bin",
