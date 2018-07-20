@@ -6,7 +6,7 @@
     "LICENSE.md",
     "README.md"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple routing and template engine",
   "bin": {
     "launch-pack": "bin/launch-pack.js"
