@@ -3,6 +3,7 @@
   "files": [
     "lib",
     "bin",
+    "debug",
     "LICENSE.md",
     "README.md"
   ],
