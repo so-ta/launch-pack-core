@@ -13,7 +13,9 @@
     "launch-pack": "bin/launch-pack.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run lint:js",
+    "lint:js": "eslint '**/*.js'; exit 0",
+    "fix:js": "eslint --fix '**/*.js'; exit 0"
   },
   "author": "so-ta",
   "license": "MIT",
