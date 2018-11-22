@@ -15,5 +15,18 @@ module.exports = {
         "sourceType": "script",
       },
     },
+    {
+      "files": "debug/debug.js",
+      "globals": {
+        "$": true,
+        "io": true,
+      },
+      "rules": {
+        "func-names": "off",
+        "no-var": "off",
+        "prefer-arrow-callback": "off",
+        "prefer-template": "off",
+      },
+    },
   ],
 };
