@@ -12,4 +12,4 @@ if (eunModeIndex < process.argv.length) {
   global.LaunchPack.RUN_MODE = 'local'; // デフォルトの設定
 }
 
-require('../lib/server').launchServer(process.cwd());
+require('../lib/server').launchServer();
