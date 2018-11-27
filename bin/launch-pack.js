@@ -12,4 +12,7 @@ if (eunModeIndex < process.argv.length) {
   global.LaunchPack.RUN_MODE = 'local'; // デフォルトの設定
 }
 
+// デバッグモードのデフォルト設定
+global.LaunchPack.DEBUG_MODE = false;
+
 require('../lib/server').launchServer();
