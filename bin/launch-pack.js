@@ -2,7 +2,13 @@
 
 'use strict';
 
-global.LaunchPack = {};
+const { version } = require('../package.json');
+
+console.info(`[LaunchPack] version ${version}`);
+
+global.LaunchPack = {
+  VERSION: version,
+};
 
 // 実行モードの設定
 const eunModeIndex = 2;
