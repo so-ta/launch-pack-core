@@ -24,6 +24,7 @@
     "email": "souta.ozaki@gmail.com"
   },
   "dependencies": {
+    "chokidar": "^2.0.4",
     "cookie": "^0.3.1",
     "ect": "^0.5.9",
     "lodash.clonedeep": "^4.5.0",
