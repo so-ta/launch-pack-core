@@ -4,6 +4,11 @@ module.exports = {
     "default-case": "off",
     "import/no-dynamic-require": "off",
     "no-console": "off",
+    "no-else-return": [
+      "error", {
+        allowElseIf: true
+      }
+    ],
     "no-param-reassign": "off",
     "no-plusplus": "off",
     "no-underscore-dangle": "off",
