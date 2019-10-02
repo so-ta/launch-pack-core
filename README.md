@@ -1,2 +1,4 @@
 # Launch-Pack!
-simple routing and template engine
+Launch-PackはViewをベースとした  
+なテンプレートエンジンです。  
+
