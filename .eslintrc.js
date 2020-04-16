@@ -12,6 +12,7 @@ module.exports = {
     "no-param-reassign": "off",
     "no-plusplus": "off",
     "no-underscore-dangle": "off",
+    "max-classes-per-file": "off",
   },
   "overrides": [
     {
