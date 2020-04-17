@@ -29,7 +29,6 @@
     "lodash.clonedeep": "^4.5.0",
     "moment": "^2.24.0",
     "multiparty": "^4.2.1",
-    "promise": "^8.1.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
   },
