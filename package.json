@@ -23,19 +23,19 @@
     "email": "souta.ozaki@gmail.com"
   },
   "dependencies": {
-    "chokidar": "^3.3.1",
-    "cookie": "^0.4.0",
+    "chokidar": "^3.4.3",
+    "cookie": "^0.4.1",
     "ect": "^0.5.9",
     "iconv": "^3.0.0",
     "lodash.clonedeep": "^4.5.0",
-    "moment": "^2.24.0",
-    "multiparty": "^4.2.1",
+    "moment": "^2.29.1",
+    "multiparty": "^4.2.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-plugin-import": "^2.20.2"
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
   }
 }
